@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HugeNumberCalculator_release_stub",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HugeNumberCalculator_release_stub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HugeNumberCalculator_release_stub-Debug-322f6d624534c4228d98.json",
+					"name" : "HugeNumberCalculator_release_stub",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Nathan/Desktop/L1/2EME SEMESTRE/GIT HUB/Projet git hub/HugeNumberCalculator-release_stub/cmake-build-debug",
+		"source" : "C:/Users/Nathan/Desktop/L1/2EME SEMESTRE/GIT HUB/Projet git hub/HugeNumberCalculator-release_stub"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
